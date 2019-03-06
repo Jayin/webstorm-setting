@@ -4,7 +4,6 @@
       <mapping ext="wxss" type="CSS" />
       <mapping ext="wxml" type="HTML" />
       <mapping pattern="zh-cn.json" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
